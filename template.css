@@ -1,0 +1,30 @@
+/* HTML and Body */
+
+html {
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: black;
+  margin: 20%;
+  font-size: 20px;
+}
+
+header {
+  font-size: 80px;
+  font-family: 'Lora', serif;
+}
+
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  padding-left: 17%;
+  padding-right: 17%;
+  margin: 0px;
+  color: #637288;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+img, video {
+  border: 2px solid white;
+  margin: 0px;
+}
